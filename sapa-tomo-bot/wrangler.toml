@@ -1,1 +1,14 @@
+name = "sapa-tomo-bot"
+compatibility_date = "2024-01-01"
 
+[[vars]]
+key = "GOOGLE_SHEETS_CREDENTIALS"
+value = "your-google-sheets-credentials-here"
+
+[[vars]]
+key = "SPREADSHEET_ID"
+value = "your-spreadsheet-id-here"
+
+[[vars]]
+key = "ADMIN_NUMBERS"
+value = "62812xxxxxxx,62813xxxxxxx"
