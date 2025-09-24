@@ -3,11 +3,11 @@ compatibility_date = "2024-01-01"
 
 [[vars]]
 key = "GOOGLE_SHEETS_CREDENTIALS"
-value = "your-google-sheets-credentials-here"
+value = "be631db09be0e8bb8617dac84a6aad0d5ad67d20"
 
 [[vars]]
 key = "SPREADSHEET_ID"
-value = "your-spreadsheet-id-here"
+value = "108579236797130129265"
 
 [[vars]]
 key = "ADMIN_NUMBERS"
